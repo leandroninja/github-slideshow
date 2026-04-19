@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       Git & GitHub na Prática
+author:      Leandro Oliveira Moraes
+description: Apresentação sobre fundamentos de Git e GitHub com exemplos práticos.
 
 sass:
   style:     :compressed
